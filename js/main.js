@@ -1,19 +1,19 @@
 let photos = document.querySelector("#image")
 
 let ArrayOfPhotos = [
-    "url(images/1.jpg)", 
-    "url(images/2.jpg)", 
-    "url(images/3.jpg)", 
-    "url(images/4.jpg)",
-    "url(images/5.jpg)",
-    "url(images/6.jpg)",
-    "url(images/7.jpg)",
-    "url(images/8.jpg)",
-    "url(images/9.jpg)",
-    "url(images/10.jpg)",
-    "url(images/11.jpg)",
-    "url(images/12.jpg)",
-    "url(images/13.jpg)"
+    "url(images/1.png)", 
+    "url(images/2.png)", 
+    "url(images/3.png)", 
+    "url(images/4.png)",
+    "url(images/5.png)",
+    "url(images/6.png)",
+    "url(images/7.png)",
+    "url(images/8.png)",
+    "url(images/9.png)",
+    "url(images/10.png)",
+    "url(images/11.png)",
+    "url(images/12.png)",
+    "url(images/13.png)"
 ]
 
 let index = 0;
